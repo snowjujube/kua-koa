@@ -1,0 +1,6 @@
+- cd /kua 框架根目录
+- npm i
+- cd ./src/examples/kua-demo
+- npm i
+- npm run dev
+- 访问 http://localhost:3030/home or http://localhost:3030/test
